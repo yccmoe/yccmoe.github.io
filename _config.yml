@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: &lt;&quot;얌츤츤의 나날&gt;
-description: 개설 됨!
+name: "</얌츤츤의 나날>"
+description: "개설 됨!"
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: http://yccmoe.github.io
